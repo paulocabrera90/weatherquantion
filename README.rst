@@ -1,11 +1,3 @@
-PARA INSTALAR LA APLICACION
-
-parado en la raiz, en la consola escribimos:
-setup.py install
-
-luego tecleamos wheaterquantion. y automaticamente se abre la app
-
-
 
 wheaterquantion is a library and command line utility.
 
